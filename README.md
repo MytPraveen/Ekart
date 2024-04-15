@@ -165,3 +165,15 @@ jdbc:h2:mem:shopping_cart_db
 
 In `/src/main/resources/application.properties` file it is possible to change both
 web interface url path, as well as the datasource url.
+
+<img width="1470" alt="Screenshot 2024-03-20 at 5 50 32 AM" src="https://github.com/MytPraveen/Ekart/assets/160492814/08fcf837-f3ab-49eb-aa8d-23aa8386a9de">
+<img width="1470" alt="Screenshot 2024-03-20 at 5 54 28 AM" src="https://github.com/MytPraveen/Ekart/assets/160492814/eacf553d-c2d9-4e6d-a75c-2cf7b03eab83">
+<img width="1470" alt="Screenshot 2024-03-20 at 5 54 38 AM" src="https://github.com/MytPraveen/Ekart/assets/160492814/fd92ee9f-a54f-4368-af4e-c30e4ee383fc">
+<img width="1470" alt="Screenshot 2024-03-20 at 6 13 19 AM" src="https://github.com/MytPraveen/Ekart/assets/160492814/a4eeb9d3-775e-42b2-96c0-43371c12d9b9">
+
+
+
+
+
+
+
